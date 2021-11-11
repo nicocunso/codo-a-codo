@@ -1,0 +1,39 @@
+.codoacodo {
+    height: 80px;
+    width: 150px;
+
+}
+#tickets{
+    color: green;
+}
+.main-carousel-text{
+    text-align: right;
+    padding-left: 700px;
+    padding-right: 100px;
+    position: absolute;
+    z-index: 2;
+    color: white;
+    bottom: 20%;
+}
+ .carousel-inner{
+     z-index: 1;
+     filter: brightness(50%);
+ }
+ .separador{
+     text-align: center;
+     margin-bottom: 0;
+ }
+ .container h3{
+     text-align: center;
+ }
+.enviar{
+    background-color: rgb(129, 214, 43) ;
+    color: white;
+    border-radius: 0.25rem;
+    border-style: none;
+    padding: 5px;
+    width: 100%;
+}
+.barra-footer{
+    background-color: rgb(4, 62, 85);
+}
